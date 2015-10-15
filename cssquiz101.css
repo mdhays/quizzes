@@ -1,0 +1,36 @@
+#header {
+	border:solid;
+	border-width: 1px;
+	border-color: blue;
+}
+
+nav {
+	display: inline;
+}
+
+.disabled {
+	color: grey;
+}
+
+.active {
+	color: yellow;
+} 
+
+#red {
+	color: red;
+}
+
+#redsister {
+	background-color: red;
+}
+
+#bluebrother {
+	background-color: blue;
+}
+
+#blue {
+	color: blue;
+}
+
+
+
