@@ -1,0 +1,25 @@
+.blue {
+	color: blue;
+}
+
+.big {
+	font-size: 100px;
+}
+
+.border-me {
+	border: solid;
+	border-width: 4px;
+}
+
+.round-it {
+	border-radius: 5px;
+}
+
+#intro {
+	font-weight: bold;
+}
+
+#end {
+	font-weight: bold;
+	font-style: italic;
+}
